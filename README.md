@@ -1,4 +1,4 @@
-# dndsimple
+# D&D Simple Sheet
 
 A new Flutter project.
 
